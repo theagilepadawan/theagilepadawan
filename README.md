@@ -1,5 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-<span style="font-family:Papyrus; font-size:40px;">👋</span>
+<font size="+1">👋</font>
+
 
 
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=theagilepadawan&theme=algolia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
