@@ -4,7 +4,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theagilepadawan&theme=algolia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theagilepadawan&theme=algolia&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theagilepadawan&theme=algolia&layout=compact&count_private=true)
 
 
 
