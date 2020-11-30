@@ -1,5 +1,5 @@
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
----------------------------------------------------------------------------------------------------------
+#
 
 
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=theagilepadawan&theme=algolia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
